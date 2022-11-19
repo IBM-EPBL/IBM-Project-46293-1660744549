@@ -19,5 +19,12 @@ diagnosis of plant diseases. Application of computer vision and image processing
 strategies simply assist farmers in all of the regions of agriculture. Generally, the plant 
 diseases are caused by the abnormal physiological functionalities of plants.
 
-
 ![image](https://user-images.githubusercontent.com/114570773/202861583-8ef99668-8109-4a54-94a9-de473d186def.png)
+![image](https://user-images.githubusercontent.com/114570773/202861717-7fea86a0-06f6-44b0-b995-5fe50f1cb2ba.png)
+
+FUTURE SCOPE:………………………………………………..
+
+* The technology will assist farmers by providing required advice on crops, their 
+growth, and other basic information.
+
+*The device can also help farmers calculate crop MSP.
