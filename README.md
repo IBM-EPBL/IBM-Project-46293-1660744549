@@ -29,3 +29,5 @@ growth, and other basic information.
 
 *The device can also help farmers calculate crop MSP.
 FINIAL DELIVERABLES::https://github.com/IBM-EPBL/IBM-Project-46293-1660744549/tree/main/Final_Deliverables
+
+demo_video: https://drive.google.com/file/d/1HyyqzJmSDYgtWbAnjJuEjNo3iSbAwwDu/view?usp=sharing
